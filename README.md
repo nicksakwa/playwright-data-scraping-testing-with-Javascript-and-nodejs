@@ -7,15 +7,21 @@ Here I share a NodeJS HTTP server project with Javascript
 ## Requirements
 *  Nodejs
     ```bash
-    npm install 
+    npm install playwright
     ```
 To execute the app in this repository
 
 1.  Navigate to the directory containing the  files in your terminal.
 2.  Run the desired script in the terminal:
     ```bash
-    npm start
+    node scraper.js
     ```
-Runs the app in the development mode.
-
+3. Run the desired test script in the terminal:
+    ```bash
+    npx playwright test
+    ```
+4. Runs the app in the development mode.
+    ```bash
+    npx playwright test --headed
+    ```
     
