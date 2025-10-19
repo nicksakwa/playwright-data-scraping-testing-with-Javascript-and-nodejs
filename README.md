@@ -1,5 +1,5 @@
 # Hey there! 👋
-Here I share a NodeJS HTTP server project with Javascript
+Here I share a NodeJS project with Playwright for webscraping and software testing
 
 # Playwright for Javascript Testing and Scraping with nodeJS
 
