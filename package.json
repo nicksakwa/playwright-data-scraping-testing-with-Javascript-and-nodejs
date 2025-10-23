@@ -1,0 +1,20 @@
+{
+  "name": "playwright-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwrightscrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicksakwa/playwright-data-scraping-testing-with-Javascript-and-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicksakwa/playwright-data-scraping-testing-with-Javascript-and-nodejs/issues"
+  },
+  "homepage": "https://github.com/nicksakwa/playwright-data-scraping-testing-with-Javascript-and-nodejs#readme"
+}
